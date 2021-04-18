@@ -1,0 +1,154 @@
+
+.grid img{
+   
+    
+    border:2 px solid black;
+    border-radius: 15px;
+}
+
+.grid{
+border:2px solid black;
+border-radius: 15px;
+
+display:flex;
+justify-content:space-evenly;
+background-color: plum;
+ flex-wrap: wrap;
+                color:#924909;
+                
+                font-size:25px;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+
+align-self: auto;
+
+}
+
+.grid1{
+    border:2px solid black;
+    border-radius: 15px;
+    
+    display:flex;
+    justify-content:space-evenly;
+background-color: rgb(160, 202, 221);
+    flex-wrap: wrap;
+                color:plum;
+                
+                font-size:25px;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+    align-self: auto;
+    }
+    
+    .grid3{
+        border:2px solid black;
+        border-radius: 15px;
+        
+        display:flex;
+        justify-content:space-evenly;
+    background-color: rgb(202, 195, 130);
+        flex-wrap: wrap;
+        color:#924909;
+                    
+                    font-size:25px;
+                    margin:30px;
+                    padding:25px;
+                    border-radius:20px;
+        align-self: auto;
+        }
+
+.origami{
+    border-radius: 20 px;
+    border-radius:white;
+    flex-wrap: wrap;
+    color:#924909;
+    width:310px;
+    font-family:fantasy;
+    
+    }
+    .origami img{
+        
+        opacity: 0.9;
+        
+    }
+    .origami img:hover {
+opacity:1;
+width:250px;
+height:250px;
+    }
+
+    
+
+*{
+background-color:rgb(121, 233, 121)
+
+}
+
+h3 {
+    color: rgb(245, 0, 233);
+}
+
+.menu{
+display:flex;
+justify-content:space-between;
+background-color:black;
+font-size:20px;
+font-size:20px;
+font-weight:400;
+color:white;
+
+}
+
+body{
+    background-color:whitesomke;
+}
+
+.header a{
+margin-left: 20px;
+
+}
+.header{
+display:flex;
+justify-content: center;
+font-weight:400;
+background-color: rgb(236, 184, 116);
+color:rgb(42, 45, 216)
+
+}
+a:link{
+color:rgb(0, 0, 0);
+
+}
+a:visited{
+    color:rgb(255, 0, 0)
+}
+
+.header{
+position:relative
+
+}
+.header a{
+    position:absolute;
+    top:50%;
+    left:50%
+}
+.header1{
+    display:flex;
+    justify-content: center;
+    font-weight:400;
+    background-color: rgb(236, 184, 116);
+    color:rgb(255, 2, 2)
+    
+    }
+
+    .header2{
+border:2px solid black;
+border-radius:50px;
+
+    }
+
+    p{
+        color:rgb(0, 98, 255)
+    }
